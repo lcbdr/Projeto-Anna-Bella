@@ -1,0 +1,26 @@
+body {
+    background-image: url('fundo.png');
+    width: 900px;
+}
+
+#menu {
+    padding: 18px;
+    background-color: rgb(167, 167, 167);
+    font-weight: 900;
+
+}
+#corpo {
+    background-color: rgb(231, 231, 231);
+    color: rgb(75, 73, 73);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#rodape {
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+}
+#campanhas {
+    border: 5px solid gray
+}
